@@ -1,6 +1,6 @@
 # Lab4AndroidCalc
 
-##Super Amazing App##
+## Super Amazing App 
 
 Contains:
  * Numbers
